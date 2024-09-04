@@ -1,22 +1,9 @@
-Alpha Version v0.0.7 Release Note:
-🚀 New Features:
+Alpha Version v0.0.8 Release Note:
 
-Alpha version launch
-Implementation of system update test
+tint API App Release Update:
 
-🐛 Bug Fixes:
-
-Resolved known major issues
-
-🔧 Improvements:
-
-Enhanced overall system stability
-Performance optimization
-
-📋 Notes:
-
-This is an early Alpha release; unexpected issues may occur
-Feedback and bug reports are welcome
-
-More features and improvements are planned for future updates. Thank you for your support!
-Let me know if you need any additional information or clarification.
+- Enhanced folder tree search functionality and improved styling
+- Fixed resizing issues
+- Improved focus detection
+- Enhanced overall user experience (UX)
+- Various bug fixes and stability improvements
