@@ -1,4 +1,4 @@
-Alpha Version v0.0.6 Release Note:
+Alpha Version v0.0.7 Release Note:
 🚀 New Features:
 
 Alpha version launch
