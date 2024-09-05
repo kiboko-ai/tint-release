@@ -1,9 +1,15 @@
-Alpha Version v0.0.8 Release Note:
+Tint API v0.0.9 Release Notes:
 
-tint API App Release Update:
+🆕 New Features:
+- Introduced publishing example page for better user guidance
+- Implemented automatic update testing mechanism
 
-- Enhanced folder tree search functionality and improved styling
-- Fixed resizing issues
-- Improved focus detection
-- Enhanced overall user experience (UX)
-- Various bug fixes and stability improvements
+🔧 Improvements:
+- Completely redesigned and optimized Env page for improved usability
+- Enhanced overall UI/UX design elements
+- Streamlined and optimized search process for faster results
+
+🐛 Bug Fixes:
+- Resolved several known issues to improve stability and performance
+
+We're continually working to enhance your experience with Tint API. Thank you for your ongoing support!
