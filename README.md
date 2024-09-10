@@ -1,14 +1,13 @@
-Tint API v0.0.10-alpha.1 Release Notes
+Tint API v0.0.11-alpha.1 Release Notes
 
 New Features:
-- Introduced Performance Test page
-- Implemented basic structure for automatic update checks
-- Integrated Google Analytics
+- Implemented Performance Test configuration
 
 Improvements:
-- Enhanced browser simulation styling
+- Added app version information mapping
 
 Bug Fixes:
-- Resolved Beautify scroll issues
+- Resolved chart build errors
+- Fixed header information delay merge issues
 
-This alpha release brings new testing capabilities, foundational update features, and important fixes. We appreciate your feedback as we continue to refine Tint API.
+This alpha release focuses on performance testing capabilities and addresses key issues to improve stability. We appreciate your continued support and feedback as we refine Tint API.
