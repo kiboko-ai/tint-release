@@ -1,13 +1,13 @@
-Tint API v0.0.11-alpha.1 Release Notes
+Tint API v0.0.12-alpha.1 Release Notes
 
-New Features:
-- Implemented Performance Test configuration
+Key Updates:
+- Scope adjustment for MVP product deployment
 
-Improvements:
-- Added app version information mapping
+Enhancements:
+- Implemented new app icon
+- Improved overall design and user experience (UX)
 
 Bug Fixes:
-- Resolved chart build errors
-- Fixed header information delay merge issues
+- Various bug fixes and stability improvements
 
-This alpha release focuses on performance testing capabilities and addresses key issues to improve stability. We appreciate your continued support and feedback as we refine Tint API.
+This alpha release focuses on refining our product for MVP deployment, enhancing visual identity, and improving user interaction. We appreciate your feedback as we continue to evolve Tint API.
