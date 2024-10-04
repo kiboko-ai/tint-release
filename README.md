@@ -1,13 +1,13 @@
-Tint API v0.0.12-alpha.1 Release Notes
+Tint API v0.1.0-beta.1 Release Notes
 
-Key Updates:
-- Scope adjustment for MVP product deployment
+Major Features:
 
-Enhancements:
-- Implemented new app icon
-- Improved overall design and user experience (UX)
+Completed Postman Migration
+Implemented Data Export functionality
+Environment Management:
 
-Bug Fixes:
-- Various bug fixes and stability improvements
+Introduced Environment management and synchronization
+Added Environment Editor
+This beta release marks a significant milestone in Tint API's development, introducing key features for improved workflow and data handling. We've transitioned from alpha to beta, reflecting the increased stability and feature completeness of the application.
 
-This alpha release focuses on refining our product for MVP deployment, enhancing visual identity, and improving user interaction. We appreciate your feedback as we continue to evolve Tint API.
+We welcome your feedback as we continue to refine and enhance Tint API. Your input is crucial in shaping the future of this tool.
